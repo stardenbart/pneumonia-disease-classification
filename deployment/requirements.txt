@@ -6,4 +6,4 @@ gdown
 requests
 streamlit
 plotly
-sklearn
+scikit-learn
