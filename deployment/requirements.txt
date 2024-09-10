@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+pillow
+gdown
+requests
+streamlit
+plotly
