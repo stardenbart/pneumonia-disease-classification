@@ -35,13 +35,13 @@ The following libraries are used in the application:
    ```bash
    git clone https://github.com/your-repo-name/pneumonia-detection.git
 2. Navigate to the project directory:
-   '''bash
+   ```bash
    cd pneumonia-detection
 4. Install the required dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 5. Run the application
-   '''bash
+   ```bash
    streamlit run apps.py
 
 ## Directory Structure
