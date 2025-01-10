@@ -46,11 +46,11 @@ The following libraries are used in the application:
 
 ## Directory Structure
 pneumonia-detection/
-├── apps.py           # Main Streamlit application
-├── utils.py          # Utility functions for preprocessing and model handling
-├── model/            # Folder containing the pre-trained models
-├── requirements.txt  # List of required Python libraries
-└── README.md         # Project documentation
+- ├── apps.py           # Main Streamlit application
+- ├── utils.py          # Utility functions for preprocessing and model handling
+- ├── model/            # Folder containing the pre-trained models
+- ├── requirements.txt  # List of required Python libraries
+- └── README.md         # Project documentation
 
 ## Author
 Abdullah Farauk/Stardenbart
